@@ -8,6 +8,15 @@ Softwares e bibliotecas sugeridos:
 <li>React</li>
 </ul>
 
+Versão do node usada: v18.20.8
+Versão do npm: 10.8.2
+
+Comandos para rodar o projeto:
+
+```bash
+npm install
+npm start
+```
 
 ## Contextualização:
 A biblioteca react evoluiu bastante nos últimos anos, uma das principais evoluções foi a introdução de hooks
